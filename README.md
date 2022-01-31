@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi there, I'm Antonio Denilson - 👋
 
-<!--
-**denilsonsouza/denilsonsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##
+- 🔭 I’m currently working on C/C++ and CI/CD in private project (3D FWI  - Full waveform-inversion)
+<!-- - 🌱 I’m currently learning  -->
+<!-- - 👯 I’m looking to collaborate on ... -->
+<!-- - 🤔 I’m looking for help with ... -->
+<!-- - 💬 Ask me about ... -->
+<!-- - 📫 How to reach me: ... -->
+<!-- - 😄 Pronouns: ... -->
+<!-- - ⚡ Fun fact: ... -->
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Languages and Tools:
+- Python
+- C/C++
+- HTML and CSS
+<br/>
+<br/>
+
+---
+
+<br/>
